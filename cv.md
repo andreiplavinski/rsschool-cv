@@ -22,7 +22,7 @@ Specialization: operation of the railways
 + Python course on stepic.org
 + Web-development courses on youtube
 
-## Skils:
+## Skills:
 ---
 + HTML5, CSS3
 + JavaScript
