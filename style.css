@@ -1,7 +1,5 @@
-
-  header,
-  main,
-  footer {
-    border: 1px solid green;
-  }
+.container {
+    max-width: 1440px;
+    margin: auto;
+}
 
