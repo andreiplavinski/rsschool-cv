@@ -11,6 +11,23 @@
     width: 10%;
 }
 
-.nav-item{
+.nav-item {
     display: inline;
+}
+
+body {
+    font-family: "Open Sans", sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.6;
+    color: #0b0614;
+}
+
+a {
+    text-decoration: none;
+    color: #0843a2;
+}
+
+.section-title {
+    border-bottom: 1px solid rgb(61, 69, 144);
 }
