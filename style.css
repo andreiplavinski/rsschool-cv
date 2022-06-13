@@ -10,3 +10,7 @@
 .logo {
     width: 10%;
 }
+
+.nav-item{
+    display: inline;
+}
