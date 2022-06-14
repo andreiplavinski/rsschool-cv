@@ -1,23 +1,25 @@
-.container {
+.box {
     max-width: 1440px;
-    margin: auto;
+    margin: 0 auto;
 }
 
-.photo {
-    width: 30%;
-}
-
-.logo {
-    width: 10%;
-}
-
-.nav-item {
+.nav-li {
     display: inline;
+    padding: 3%
 }
 
 .footer-li {
     display: inline;
-    margin: 8%;
+    padding: 9%;
+}
+
+.photo {
+    width: 30%;
+    border: 5px solid #28a261;
+}
+
+.logo {
+    width: 5%;
 }
 
 body {
@@ -25,14 +27,27 @@ body {
     font-size: 20px;
     font-weight: 500;
     line-height: 1.6;
-    color: #0b0614;
+    color: #000000;
 }
 
-a {
-    text-decoration: none;
-    color: #0843a2;
+.header .box {
+    background-color: #28a261;
+}
+
+.footer .box {
+    background-color: #28a261;
 }
 
 .section-title {
-    border-bottom: 1px solid rgb(61, 69, 144);
+    border-bottom: 5px solid #28a261;
+}
+
+.footer-li,
+a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+#a-experience {
+    color: #28a261;
 }
